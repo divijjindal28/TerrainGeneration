@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D785F5CD-E0FF-C7EE-1898-8F72AECBFED9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Utility/FOVKick.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Utility/FOVKick.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="afa59a2f-a6cb-4f6a-b70c-80c0bd13094f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
